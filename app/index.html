@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="App">
+<head>
+    <meta charset="UTF-8">
+    <title>My App</title>
+
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./controller/MainCtrl.js"></script>
+    <script src="./service/MainServ.js"></script>
+
+</head>
+<body>
+1 + 1 = {{ 1+1 }}
+
+<div ng-controller="MainCtrl">
+    Your name: {{ name }}
+</div>
+
+</body>
+</html>

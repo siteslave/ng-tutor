@@ -1,0 +1,27 @@
+{
+  "name": "ng-tutor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/index.html",
+  "window": {
+    "toolbar": false,
+    "witdh": 1000,
+    "height": 480,
+    "position": "center",
+    "frame": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siteslave/ng-tutor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siteslave/ng-tutor/issues"
+  },
+  "homepage": "https://github.com/siteslave/ng-tutor#readme"
+}
